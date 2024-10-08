@@ -1,0 +1,68 @@
+[
+    {
+        "dia": "07-10-2024",
+        "id": 1,
+        "sabor": "frutilla",
+        "precio": 50,
+        "tipo": "agua",
+        "vaso": "plastico",
+        "stock": 3,
+        "$estado": "activo",
+        "imagen": "ImagenesDeHelados\/2024\/frutilla_agua.jpg"
+    },
+    {
+        "dia": "07-10-2024",
+        "id": 2,
+        "sabor": "chocolate",
+        "precio": 50,
+        "tipo": "crema",
+        "vaso": "cucurucho",
+        "stock": 8,
+        "$estado": "activo",
+        "imagen": "ImagenesDeHelados\/2024\/chocolate_crema.jpg"
+    },
+    {
+        "dia": "07-10-2024",
+        "id": 3,
+        "sabor": "coco",
+        "precio": 30,
+        "tipo": "crema",
+        "vaso": "vaso",
+        "stock": 50,
+        "$estado": "activo",
+        "imagen": "ImagenesDeHelados\/2024\/coco_crema.jpg"
+    },
+    {
+        "dia": "07-10-2024",
+        "id": 4,
+        "sabor": "melon",
+        "precio": 30,
+        "tipo": "crema",
+        "vaso": "vaso",
+        "stock": 50,
+        "$estado": "activo",
+        "imagen": "ImagenesDeHelados\/2024\/melon_crema.jpg"
+    },
+    {
+        "dia": "08-10-2024",
+        "id": 5,
+        "sabor": "melon",
+        "precio": 30,
+        "tipo": "CHOCOLATE",
+        "vaso": "vaso",
+        "stock": 50,
+        "$estado": "activo",
+        "imagen": "ImagenesDeHelados\/2024\/melon_CHOCOLATE.jpg"
+    },
+    {
+        "dia": "08-10-2024",
+        "id": 6,
+        "sabor": "melon",
+        "precio": 30,
+        "tipo": "RAWW",
+        "vaso": "vaso",
+        "stock": 50,
+        "$estado": "activo",
+        "imagen": "ImagenesDeHelados\/2024\/melon_RAWW.jpg"
+    }
+]

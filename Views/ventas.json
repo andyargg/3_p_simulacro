@@ -1,0 +1,24 @@
+[
+    {
+        "id": 277,
+        "email": "usuario1@gmail.com",
+        "sabor": "chocolate",
+        "tipo": "crema",
+        "vaso": "cucurucho",
+        "cantidad": "5",
+        "fecha": "08-10-2024",
+        "estado": "eliminada",
+        "imagen": "..\/Views\/ImagenesDeLaVenta\/2024\/chocolate_crema_usuario1_08-10-2024.jpg"
+    },
+    {
+        "id": 3862,
+        "email": "usuario1@gmail.com",
+        "sabor": "frutilla",
+        "tipo": "agua",
+        "vaso": "cucurucho",
+        "cantidad": "5",
+        "fecha": "08-10-2024",
+        "estado": "eliminada",
+        "imagen": "..\/Views\/ImagenesDeLaVenta\/2024\/frutilla_agua_usuario1_08-10-2024.jpg"
+    }
+]
